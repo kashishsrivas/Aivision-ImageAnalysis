@@ -1,1 +1,1 @@
-#Azure Ai-Vision
+Azure Ai-Vision

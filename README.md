@@ -1,2 +1,1 @@
-# mslearn-ai-vision
-Azure Ai-Vision
+#Azure Ai-Vision
